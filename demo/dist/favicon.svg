@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Shield background -->
+  <path d="M16 2 L28 6 L28 16 C28 23 22 29 16 31 C10 29 4 23 4 16 L4 6 Z" fill="#6D28D9"/>
+  <!-- Shield highlight -->
+  <path d="M16 4 L26 7.5 L26 16 C26 22 21 27.5 16 29.5 C11 27.5 6 22 6 16 L6 7.5 Z" fill="#8B5CF6"/>
+  <!-- Document lines inside shield -->
+  <rect x="11" y="10" width="10" height="1.5" rx="0.75" fill="#E8ECF4" opacity="0.9"/>
+  <rect x="11" y="13" width="8" height="1.5" rx="0.75" fill="#E8ECF4" opacity="0.7"/>
+  <!-- Checkmark -->
+  <path d="M11 19 L14 22 L21 15" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
